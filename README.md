@@ -14,4 +14,4 @@ These exercises aim to teach the basics of **Python programming** – along with
 
 By the end of the seminar, we'll have built a strong foundation in Python and optimistically be more confident in writing and understanding code.
 
-![programming image](Python Bild.jpeg)
+![programming image](Python-Bild.jpeg)
